@@ -1,0 +1,95 @@
+Q: Who are the actors and directors of Antman
+A: Ant-Man (2015)
+    
+    Director: Peyton Reed
+    Actors: Paul Rudd, Michael Douglas, Corey Stoll, Evangeline Lilly
+
+Q: Compare the movie Antman and Avengers in terms of revenue
+A: Comparison between Ant-Man and The Avengers:
+    
+    Ant-Man (2015)
+    - Runtime: 117 minutes
+    - Box Office: $180.19M
+    - Rating: 7.3/10
+    
+    The Avengers (2012)
+    - Runtime: 143 minutes
+    - Box Office: $623.28M
+    - Rating: 8.1/10
+    
+    Analysis:
+    The Avengers (2012) significantly outperformed Ant-Man (2015) at the box office, grossing over $443 million more.
+
+Q: which movie has the highest runtime in year 2016
+A: Comparison between 13 Hours and Jason Bourne:
+    
+    13 Hours (2016)
+    - Runtime: 144 minutes
+    - Box Office: $52.82M
+    - Rating: 7.3/10
+    
+    Jason Bourne (2016)
+    - Runtime: 123 minutes
+    - Box Office: $162.16M
+    - Rating: 6.7/10
+    
+    Analysis:
+    13 Hours (2016) has the highest runtime among the movies released in 2016 listed in the provided context.
+
+Q: What was the plot of Interstellar
+A: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+
+Q: List the crime movies with highest rating in 2012
+A: The crime movies released in 2012 with the highest ratings are:
+    
+    1. Skyfall (2012): Rating 7.8
+    2. Jack Reacher (2012): Rating 7.0
+    3. Seven Psychopaths (2012): Rating 7.2
+    4. 21 Jump Street (2012): Rating 7.2
+    
+    Note that *Now You See Me* was released in 2013, not 2012, and therefore is not included in this list.
+
+Q: Recommend the best drama movie from 2006
+A: Comparison between The Prestige and The Departed:
+    
+    The Prestige (2006)
+    - Runtime: 130 minutes
+    - Box Office: $53.08M
+    - Rating: 8.5/10
+    
+    The Departed (2006)
+    - Runtime: 151 minutes
+    - Box Office: $132.37M
+    - Rating: 8.5/10
+    
+    Analysis:
+    Both *The Prestige* and *The Departed* (2006) received the same rating of 8.5.  However, *The Departed* had a significantly higher box office gross and a longer runtime.  Based solely on the provided data, *The Departed* might be considered slightly better due to its higher box office success, although both are highly rated dramas.
+
+Q: Recommend me the best horror movie
+A: Based on the provided data, the highest-rated horror movie is *Sinister* (2012) with a rating of 6.8/10.
+
+Q: Which movie has earned the highest revenue
+A: The Avengers (2012) has earned the highest revenue at $623.28M.
+
+Q: What is the highest revenue generated movie in year 2012
+A: The highest-revenue-generating movie in 2012 from the provided context is The Avengers (2012), with a box office gross of $623.28M.
+
+Q: What is the highest revenue generated movie in year 2016
+A: The highest-revenue-generating movie in 2016 from the provided context is Jason Bourne, with a box office gross of $162.16M.
+
+Q:  Which crime movies have rating above 7.0
+A: American Gangster (2007) - Rating: 7.8
+    Seven Psychopaths (2012) - Rating: 7.2
+    Fracture (2007) - Rating: 7.2
+
+Q: Details of The Imitation Game
+A: The Imitation Game (2014)
+    
+    - Runtime: 114 minutes
+    - Box Office: $91.12M
+    - Rating: 8.1/10
+    - Genre: Biography, Drama, Thriller
+    - Director: Morten Tyldum
+    - Actors: Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech
+    - Description: During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.
+
