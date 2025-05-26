@@ -10,7 +10,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from datetime import datetime
 import streamlit as st
 
-# Load environment variables
+
 load_dotenv()
 
 class MovieChatbot:
@@ -31,7 +31,7 @@ class MovieChatbot:
             df['Revenue (Millions)'] = df['Revenue (Millions)'].fillna('N/A')
             df['Actors'] = df['Actors'].str.replace('"', '')
             
-            # Convert to LangChain documents
+            #Convert to LangChain documents
             documents = []
             for _, row in df.iterrows():
                 doc = Document(
@@ -67,7 +67,6 @@ class MovieChatbot:
             return None
 
     def rag_system(self):
-        """Set up RAG pipeline with enhanced prompt engineering"""
         data = self.load_data()
         if not data:
             raise ValueError("Failed to load movie data")
@@ -78,7 +77,7 @@ class MovieChatbot:
         )
         splits = text_splitter.split_documents(data)
         
-        # vector store
+        #vector store
         embeddings = GoogleGenerativeAIEmbeddings(
             model="models/embedding-001",
             google_api_key=self.gemini_api_key
@@ -150,7 +149,6 @@ class MovieChatbot:
         return response.replace("\n", "\n    ")
 
     def log_conversation(self, question, response):
-        """Log the conversation to a file and session state"""
 
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         file_log_entry = (
