@@ -2,7 +2,7 @@
 
 ## Overview
 
-A conversational AI assistant built with Streamlit and Google's Gemini API that answers questions about movies from the IMDB dataset.
+A conversational AI assistant built with Streamlit and Google's Gemini API that answers questions about movies from the IMDB dataset with different features 
 
 **Key Features:**
 
